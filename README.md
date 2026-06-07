@@ -4,10 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Python+%7C+Flask+%7C+React+Developer;Turning+Data+into+Insights+%F0%9F%93%8A;Open+to+Collaborations+%26+Opportunities+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=aaakash-01&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/aaakash-01?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/aaakash-01?tab=followers)
-
+  
 </div>
 
 ---
